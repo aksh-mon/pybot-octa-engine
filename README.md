@@ -27,6 +27,21 @@ pybot-octa-engine/
    git clone https://github.com/yourusername/pybot-octa-engine.git
    cd pybot-octa-engine
 
-## 🐍 Run the Python app:
+## (Optional) Create a virtual environment
 
+It’s a good practice to use a virtual environment:
+
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+
+## Install dependencies
+
+This project is pure Python and doesn’t require extra libraries.
+(If you extend it with jinja2 or others, add them to requirements.txt.)
+
+pip install -r requirements.txt  
+
+## 🐍 Run the Python app:
 python app.py   
+
