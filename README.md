@@ -14,7 +14,6 @@ This project demonstrates how Python can generate HTML files and interact across
 ---
 
 ## 📂 Project Structure
-pybot-octa-engine/
 ─ header.py # Generates the header section
 ─ main.py # Generates the main content
 ─ footer.py # Generates the footer section
