@@ -47,4 +47,8 @@ pip install -r requirements.txt
 ```bash
 python app.py
 
+##🪄 wanna see magic:
+```bash
+http://python.ai 
+
 
