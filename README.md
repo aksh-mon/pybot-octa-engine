@@ -47,9 +47,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 
----
-
-## 🐍 Run the Python app:
 ```bash
 http://python.ai 
 
