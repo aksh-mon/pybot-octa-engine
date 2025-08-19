@@ -41,7 +41,6 @@ venv\Scripts\activate      # On Windows
 This project is pure Python and doesn’t require extra libraries.
 (If you extend it with jinja2 or others, add them to requirements.txt.)
 
-```bash
 pip install -r requirements.txt  
 
 ## 🐍 Run the Python app:
