@@ -14,12 +14,13 @@ This project demonstrates how Python can generate HTML files and interact across
 ---
 
 ## 📂 Project Structure
-─ header.py # Generates the header section
-─ main.py # Generates the main content
-─ footer.py # Generates the footer section
+─ header.py  Generates the header section
+─ main.py  Generates the main content
+─ footer.py Generates the footer section
 ─ app.py # Entry point that combines everything
-─ templates/ # (Optional) Store HTML templates here
+─ templates (Optional) Store HTML templates here
 
+---
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
