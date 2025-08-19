@@ -43,9 +43,22 @@ This project is pure Python and doesn’t require extra libraries.
 
 pip install -r requirements.txt  
 
-## 🐍 Run the Python app:
+## 🐍 Run the Python app
 ```bash
 python app.py
+
+```
+## 🪄Magic
+checkout where u landed ✈️
+```
+http://www.python.ai
+
+```
+
+
+
+
+
 
 
 
