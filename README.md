@@ -1,4 +1,4 @@
-# pybot-octa-engine
+8# pybot-octa-engine
 
 A simple Python-based HTML template engine for structuring web pages with **header, footer, and main** sections.  
 This project demonstrates how Python can generate HTML files and interact across multiple modules, similar to component-based development in React.
@@ -48,10 +48,8 @@ pip install -r requirements.txt
 python app.py
 
 ```
-## 🪄Magic
-checkout where u landed ✈️
+##
 ```
-http://www.python.ai
 
 ```
 
